@@ -1,0 +1,2 @@
+# bewerbungs-bot
+bot
